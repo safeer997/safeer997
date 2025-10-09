@@ -12,7 +12,7 @@
 <p align="center">
   📍 Bhopal, India<br>
   📧 <a href="mailto:safeeralam997@gmail.com">safeeralam997@gmail.com</a><br>
-  🔗 <a href="https://github.com/safeer997">GitHub</a> | <a href="https://linkedin.com/in/safeeralam">LinkedIn</a>
+  🔗 <a href="https://github.com/safeer997">GitHub</a> | <a href="https://www.linkedin.com/in/safeeralam997/">LinkedIn</a>
 </p>
 
 ---
@@ -34,6 +34,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 
 </div>
 
@@ -105,7 +106,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/safeeralam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeralam997/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/safeer997)
 
 </div>
