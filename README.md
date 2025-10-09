@@ -3,7 +3,7 @@
 
 📍 Bhopal, India  
 📧 safeeralam997@gmail.com  
-🔗 [GitHub](https://github.com/safeeralam) | [LinkedIn](https://linkedin.com/in/safeeralam)  
+🔗 [GitHub](https://github.com/safeer997) | [LinkedIn](https://linkedin.com/in/safeeralam)  
 
 ---
 
@@ -57,8 +57,8 @@ I am a **Full-Stack Developer** with hands-on experience in developing and deplo
 ---
 
 ## 📊 GitHub Stats  
-![Safeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeeralam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeeralam&layout=compact&theme=radical)  
+![Safeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical)  
 
 ---
 
