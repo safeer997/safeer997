@@ -1,72 +1,115 @@
-# Hi 👋, I'm Safeer Alam  
-### Full-Stack Developer | React | Node.js | MongoDB
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Safeer%20Alam&fontSize=80&animation=fadeIn" />
+</div>
 
-📍 Bhopal, India  
-📧 safeeralam997@gmail.com  
-🔗 [GitHub](https://github.com/safeer997) | [LinkedIn](https://linkedin.com/in/safeeralam)  
+<h1 align="center">👋 Hi, I'm Safeer Alam</h1>
+<h3 align="center">Full-Stack Developer | React | Node.js | MongoDB</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=safeer997&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<p align="center">
+  📍 Bhopal, India<br>
+  📧 <a href="mailto:safeeralam997@gmail.com">safeeralam997@gmail.com</a><br>
+  🔗 <a href="https://github.com/safeer997">GitHub</a> | <a href="https://linkedin.com/in/safeeralam">LinkedIn</a>
+</p>
 
 ---
 
 ## 🚀 About Me
+
 I am a **Full-Stack Developer** with hands-on experience developing and deploying responsive web applications. Passionate about **clean code, scalable architecture**, and **collaborative development**. I build efficient APIs, optimize performance, and deliver solutions that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)  
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=shadcn&logoColor=white)  
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## 💼 Work Experience
-
-### **Full-Stack Developer Intern** — *SuperTeacher Edu Reforms Pvt. Ltd.* (Hyderabad, India)  
-📅 July 2024 – Sep 2024  
-- Developed and maintained a Learning Management System (LMS) using React, Express, and MongoDB, improving content delivery efficiency by **30%**.  
-- Built and integrated RESTful APIs ensuring **100% reliable communication** between client and server.  
-- Collaborated with cross-functional teams, reducing revision cycles by **30%**.  
+</div>
 
 ---
 
-## 📂 Projects
+## 💼 Professional Experience
 
-### **Mark My Attendance – IP-Based Tracker**
-[Repo Link](#) | [Deployed Link](#)  
-- Developed a full-stack app automating attendance for 100+ students using IP-based verification.  
-- Designed a responsive UI with **6+ reusable components** using ShadCN UI, Redux Toolkit, and Zod, improving code efficiency by **35%**.  
-- Optimized RESTful APIs, improving data handling speed by **~25%**.
+### **Full-Stack Developer Intern** — *SuperTeacher Edu Reforms Pvt. Ltd.*
+📍 **Hyderabad, India** | 📅 **July 2024 – September 2024**
 
-### **Learning Management System (LMS)**
-- Built and maintained LMS for managing **50+ courses and 1000+ users** using React, Material UI, Express, and MongoDB.  
-- Integrated secure RESTful APIs for authentication and content delivery, improving backend performance by **30%**.  
-- Integrated cloud services (Cloudinary, CloudPDF) to streamline media handling, reducing upload time by **30%**.  
+- 🔧 Developed and maintained a **Learning Management System (LMS)** using React, Express, and MongoDB, improving content delivery efficiency by **30%**
+- 🚀 Built and integrated **RESTful APIs** ensuring **100% reliable communication** between client and server
+- 👥 Collaborated with **cross-functional teams**, reducing revision cycles by **30%**
+- ☁️ Integrated cloud services (Cloudinary, CloudPDF) to streamline media handling
 
 ---
 
-## 🏆 Achievements
-- Organized and participated in multiple hackathons to enhance problem-solving and collaborative skills.  
-- Represented college cricket team in inter-college tournaments, strengthening leadership and teamwork.  
+## 🚀 Featured Projects
+
+### 🎯 **Mark My Attendance – IP-Based Tracker**
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/safeer997/mark-my-attendance)
+
+**🔹 Tech Stack:** React, Node.js, ShadCN UI, Redux Toolkit, Zod  
+**🔹 Impact:** Automated attendance for 100+ students using IP-based verification
+
+- ⚡ Designed responsive UI with **6+ reusable components**, improving code efficiency by **35%**
+- 📊 Optimized RESTful APIs, improving data handling speed by **25%**
+- 🔐 Implemented secure authentication and role-based access control
+
+### 📚 **Learning Management System (LMS)**
+**🔹 Tech Stack:** React, Material UI, Express, MongoDB, Cloudinary  
+**🔹 Scale:** Managing 50+ courses and 1000+ users
+
+- 🛡️ Integrated secure RESTful APIs for authentication and content delivery
+- 📈 Improved backend performance by **30%**
+- ☁️ Reduced media upload time by **30%** through cloud integration
 
 ---
 
-## 📊 GitHub Stats  
-![Safeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical)  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## 📈 Contribution Graph  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=safeer997&theme=react-dark&hide_border=true)  
+## 📈 Contribution Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safeer997&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: safeeralam997@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/safeeralam)  
+## 🏆 Achievements & Highlights
+
+- 🎯 **Problem Solver:** Active on competitive programming platforms
+- 🤝 **Team Leader:** Organized and participated in multiple hackathons
+- 🏏 **Leadership:** Represented college cricket team in inter-college tournaments
+- 📚 **Continuous Learner:** Pursuing advanced full-stack development concepts
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/safeeralam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/safeer997)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
