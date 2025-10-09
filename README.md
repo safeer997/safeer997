@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Full-Stack Developer** with hands-on experience in developing and deploying responsive web applications. Passionate about **clean code, scalable architecture**, and **collaborative development**. I build efficient APIs, optimize performance, and deliver solutions to solve real-world problems.
+I am a **Full-Stack Developer** with hands-on experience developing and deploying responsive web applications. Passionate about **clean code, scalable architecture**, and **collaborative development**. I build efficient APIs, optimize performance, and deliver solutions that solve real-world problems.
 
 ---
 
@@ -57,8 +57,13 @@ I am a **Full-Stack Developer** with hands-on experience in developing and deplo
 ---
 
 ## 📊 GitHub Stats  
-![Safeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical)  
+![Safeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical)  
+
+---
+
+## 📈 Contribution Graph  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=safeer997&theme=react-dark&hide_border=true)  
 
 ---
 
