@@ -42,37 +42,39 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ## 💼 Professional Experience
 
-### **Full-Stack Developer Intern** — *SuperTeacher Edu Reforms Pvt. Ltd.*
+### **Full-Stack Developer Intern** — *SuperTeacher Edu Reforms Pvt. Ltd.*  
 📍 **Hyderabad, India** | 📅 **July 2024 – September 2024**
 
-- 🔧 Developed and maintained a **Learning Management System (LMS)** using React, Express, and MongoDB, improving content delivery efficiency by **30%**
-- 🚀 Built and integrated **RESTful APIs** ensuring **100% reliable communication** between client and server
-- 👥 Collaborated with **cross-functional teams**, reducing revision cycles by **30%**
-- ☁️ Integrated cloud services (Cloudinary, CloudPDF) to streamline media handling
+- 🔧 Developed and maintained a **Learning Management System (LMS)** using React, Express, and MongoDB, improving content delivery efficiency by **30%**  
+- 🚀 Built and integrated **RESTful APIs** ensuring **100% reliable communication** between client and server  
+- 👥 Collaborated with **cross-functional teams**, reducing revision cycles by **30%**  
+- ☁️ Integrated cloud services (Cloudinary, CloudPDF) to streamline media handling  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 **Mark My Attendance – IP-Based Tracker**
-(https://img.shields.io/badge/View%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/safeer997/Mern_Attendence_project)(https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=heroku)](https://marksafeer.onrender.com/)
+### 🎯 Mark My Attendance – IP-Based Tracker  
+[View Code](https://github.com/safeer997/Mern_Attendence_project) • [Live Demo](https://marksafeer.onrender.com/)
 
 **🔹 Tech Stack:** React, Node.js, ShadCN UI, Redux Toolkit, Zod  
 **🔹 Impact:** Automated attendance for 100+ students using IP-based verification
 
 - ⚡ Designed responsive UI with **6+ reusable components**, improving code efficiency by **35%**  
 - 📊 Optimized RESTful APIs, improving data handling speed by **25%**  
-- 🔐 Implemented secure authentication and role-based access control
+- 🔐 Implemented secure authentication and role-based access control  
 
-### 📚 **Learning Management System (LMS)**
-[![View Code](https://img.shields.io/badge/View%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/safeer997/learning-management-system) [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=heroku)](https://your-lms-demo-link.com/)
+---
+
+### 📚 Learning Management System (LMS)  
+*Corporate project — demo and source code unavailable*
 
 **🔹 Tech Stack:** React, Material UI, Express, MongoDB, Cloudinary  
 **🔹 Scale:** Managing 50+ courses and 1000+ users
 
 - 🛡️ Integrated secure RESTful APIs for authentication and content delivery  
 - 📈 Improved backend performance by **30%**  
-- ☁️ Reduced media upload time by **30%** through cloud integration
+- ☁️ Reduced media upload time by **30%** through cloud integration  
 
 ---
 
@@ -96,10 +98,10 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ## 🏆 Achievements & Highlights
 
-- 🎯 **Problem Solver:** Active on competitive programming platforms
-- 🤝 **Team Leader:** Organized and participated in multiple hackathons
-- 🏏 **Leadership:** Represented college cricket team in inter-college tournaments
-- 📚 **Continuous Learner:** Pursuing advanced full-stack development concepts
+- 🎯 **Problem Solver:** Active on competitive programming platforms  
+- 🤝 **Team Leader:** Organized and participated in multiple hackathons  
+- 🏏 **Leadership:** Represented college cricket team in inter-college tournaments  
+- 📚 **Continuous Learner:** Pursuing advanced full-stack development concepts  
 
 ---
 
@@ -107,8 +109,8 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeralam997/)
+[![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeralam997/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/safeer997)
 
 </div>
