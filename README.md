@@ -55,7 +55,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 ## 🚀 Featured Projects
 
 ### 🎯 **Mark My Attendance – IP-Based Tracker**
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/safeer997/mark-my-attendance)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/safeer997/Mern_Attendence_project) [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://marksafeer.onrender.com/)
 
 **🔹 Tech Stack:** React, Node.js, ShadCN UI, Redux Toolkit, Zod  
 **🔹 Impact:** Automated attendance for 100+ students using IP-based verification
