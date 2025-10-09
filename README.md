@@ -55,7 +55,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 ## 🚀 Featured Projects
 
 ### 🎯 Mark My Attendance – IP-Based Tracker  
-[View Code](https://github.com/safeer997/Mern_Attendence_project) • [Live Demo](https://marksafeer.onrender.com/)
+![View Code](https://github.com/safeer997/Mern_Attendence_project)  •  ![Live Demo](https://marksafeer.onrender.com/)
 
 **🔹 Tech Stack:** React, Node.js, ShadCN UI, Redux Toolkit, Zod  
 **🔹 Impact:** Automated attendance for 100+ students using IP-based verification
@@ -105,16 +105,17 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeralam997/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/safeer997)
+[![Email](https://img.shields.io/badge/Email-safeeralam997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:safeeralam997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-safeeralam997-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeralam997/)
+[![GitHub](https://img.shields.io/badge/GitHub-safeer997-black?style=for-the-badge&logo=github)](https://github.com/safeer997)
 
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
