@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Safeer%20Alam&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%20MERN%20Developer&fontSize=60&animation=fadeIn" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Safeer Alam</h1>
@@ -55,7 +55,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 ## 🚀 Featured Projects
 
 ### 🎯 Mark My Attendance – IP-Based Tracker  
-[View Code](https://github.com/safeer997/Mern_Attendence_project)  •  [Live Demo](https://marksafeer.onrender.com/)
+[View Code](https://github.com/safeer997/Mern_Attendence_project) • [Live Demo](https://marksafeer.onrender.com/)
 
 **🔹 Tech Stack:** React, Node.js, ShadCN UI, Redux Toolkit, Zod  
 **🔹 Impact:** Automated attendance for 100+ students using IP-based verification
@@ -78,21 +78,15 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="All Time GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Most Used Languages" />
 </div>
-
----
-
-## 📈 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safeer997&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -105,7 +99,7 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -118,4 +112,3 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
