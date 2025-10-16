@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%20MERN%20Developer&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Architect&fontSize=70&animation=fadeIn" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Safeer Alam</h1>
