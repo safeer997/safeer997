@@ -81,13 +81,12 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&hide=prs,issues,contribs&cache_seconds=1800
+  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&hide=prs,issues&cache_seconds=1800
 " alt="All Time GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safeer997&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&hide=prs,issues&cache_seconds=1800
-" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer997&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Most Used Languages" />
 </div>
 
 ---
