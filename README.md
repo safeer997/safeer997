@@ -42,8 +42,8 @@ I am a **Full-Stack Developer** with hands-on experience developing and deployin
 
 ## 💼 Professional Experience
 
-### **Full-Stack Developer Intern** — *SuperTeacher Edu Reforms Pvt. Ltd.*  
-📍 **Hyderabad, India** | 📅 **July 2024 – September 2024**
+### **Full-Stack Developer** — *SuperTeacher Edu Reforms Pvt. Ltd.*  
+📍 **Hyderabad, India** | 📅 **Sep 2022 – present**
 
 - 🔧 Developed and maintained a **Learning Management System (LMS)** using React, Express, and MongoDB, improving content delivery efficiency by **30%**  
 - 🚀 Built and integrated **RESTful APIs** ensuring **100% reliable communication** between client and server  
